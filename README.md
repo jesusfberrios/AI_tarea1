@@ -1,5 +1,6 @@
 # FastAI_imageClassifier
-Image Classification using fastai library form Python
+Image Classification using fastai library from Python
+
 Author: Jesús Berríos (jesusfberrios)
 
 ## 3 classes image classification model
