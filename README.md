@@ -4,7 +4,7 @@ Author: Jesús Berríos (jesusfberrios)
 
 ## 3 classes image classification model
 The purpose of this project is to classify correctly 3 worldwide recognized awards that are pretty look alike:
-- FIFA Golden Ball
+- FIFA Golden Ball (Balón de Oro)
 - Grammy
 - Oscar
 
